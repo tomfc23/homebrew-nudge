@@ -1,8 +1,8 @@
 class NudgeAgent < Formula
-  desc "Phone notifications for OpenCode and Codex — manage a Nudge install"
+  desc "Phone notifications for AI coding agents — manage a Nudge install"
   homepage "https://github.com/tomfc23/nudge"
-  url "https://github.com/tomfc23/nudge/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "1400959f80857e4f820949eca1964f9b4df992ddaf713a84837e165b9b5b6730"
+  url "https://github.com/tomfc23/nudge/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "82744061d2a0bac4351316ec2ab325abe228aa4ceb382f01e4d87f6c0cebb3b9"
   license "MIT"
   head "https://github.com/tomfc23/nudge.git", branch: "main"
 
