@@ -1,8 +1,8 @@
 class NudgeAgent < Formula
   desc "Phone notifications for AI coding agents — manage a Nudge install"
   homepage "https://github.com/tomfc23/nudge"
-  url "https://github.com/tomfc23/nudge/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "82744061d2a0bac4351316ec2ab325abe228aa4ceb382f01e4d87f6c0cebb3b9"
+  url "https://github.com/tomfc23/nudge/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "1e1ce84bb26b63267045e2886142697f37ebb201b96c5490c4feca679f48bdd6"
   license "MIT"
   head "https://github.com/tomfc23/nudge.git", branch: "main"
 
